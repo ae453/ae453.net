@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Century Gothic";
+    alignment: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    font-family: "Century Gothic";
+    margin-left: 20px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+hr {
+    position: relative;
+    top: 2px;
+    border: none;
+    height: 5px;
+    background: black;
+    margin-bottom: 5px;
+    width: 300px;
+}
